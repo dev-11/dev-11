@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Dino](https://github.com/dev-11/dev-11/dino.gif)
+![Dino](https://github.com/dev-11/dev-11/blob/master/dino.gif)
 
 
 <!--
