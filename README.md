@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+&#8211; if your code works don't touch it <br />
+&#43; my code: <br />
 
 ![Dino](https://github.com/dev-11/dev-11/blob/master/cow-walking.gif)
 
