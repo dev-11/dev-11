@@ -7,7 +7,6 @@
 ```
 ![Dino](https://github.com/dev-11/dev-11/blob/master/cow-walking.gif)
 
-
 <!--
 **dev-11/dev-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
